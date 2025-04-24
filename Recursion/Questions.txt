@@ -1,0 +1,30 @@
+Factorial.
+Power.
+counting Numbers.
+climb Stairs.
+Fibonacci Series.
+Count ways to reach nth Stairs.
+Say Digits.
+Is Array Sorted.
+Sum of Array.
+Linear Search.
+Binary Search.
+Binary Search Question from lecture 12 to 13.
+Reverse string 
+Reverse string using single pointer.
+Check palindrome.
+Check palindrome using single pointer.
+Exponent of Numbers
+Exponent of Numbers(optimize approach)
+Bubble Sorted.
+Selection sort.
+Insertion sort.
+Merge Sort.
+Merge 2 sorted array.
+Inversion count.
+Quick sort.
+Power set.
+Subsequence.
+Letter combination of phone.
+permutation of a string.
+Rat in a maze.
